@@ -1,10 +1,12 @@
 # Progetto Unito MAADB
 
-Repository for the MAADB exam's projects, session 2020-2021. Developed with love by Damiano Gianotti and Lorenzo Tabasso.
+Repository for the Advanced Database Models and Architectures (MAADB 🇮🇹) exam's projects, session 2020-2021. Developed with love ❤ by Damiano Gianotti and Lorenzo Tabasso.
+
+#### This project is concerned with sentiment analysis: extrating text and emoij from 60000+ tweets while comparing two different DBMS solutions: MariaDB(SQL) and MongoDB(NoSQL)
 
 ## Installation
 
-In this project we used Docker and Python.
+In ordert to run this project you need to valid Docker and Python installation
 
 ### Docker
 
